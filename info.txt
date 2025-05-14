@@ -4,3 +4,6 @@ El primer paso para comenzar con el alojamiento en github es cear una cuenta per
 
 Paso 2: crear una repositorio remoto en github 
 Después de registrarse,cear un home (un repositorio) en github para el repositorio git que quieres compartir 
+
+Paso 3: Conectar el directorio git del proyecto con el repositorio remoto.
+Una vez que hayas creado un repositorio remoto para tu proyecto, tienes que vincular el directorio del proyecto.
