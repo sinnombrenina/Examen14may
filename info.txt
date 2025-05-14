@@ -1,3 +1,6 @@
 Para alojar (o compartir )un repositprio git en github, siga los siguientes pasos
 Paso 1: Registrar una cuenta en github 
 El primer paso para comenzar con el alojamiento en github es cear una cuenta personal. Visite la página de registro oficial para registrarse.
+
+Paso 2: crear una repositorio remoto en github 
+Después de registrarse,cear un home (un repositorio) en github para el repositorio git que quieres compartir 
